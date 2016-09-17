@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movies-app
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,7 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# EmberDOJO
+Práctica realizada en clase de Desarrollo de Aplicaciones Empresariales
+>>>>>>> 8f4cf5aece553e791f5e54b09646bfc590aae3de
